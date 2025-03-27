@@ -11,7 +11,7 @@ import Contact from '../src/pages/Contact';
 
 function App() {
   return (
-    <Router>
+    <Router basename='/my-portfolio/'>
       <div className="d-flex flex-column vh-100 bg-dark">
         <Navbar />
         <main className="flex-grow-1 pt-5" style={{paddingTop:"70px"}}>
