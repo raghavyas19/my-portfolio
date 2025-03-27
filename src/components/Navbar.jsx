@@ -13,6 +13,7 @@ export default function Navbar() {
     { path: '/experience', label: 'Experience' },
     { path: '/education', label: 'Education' },
     { path: '/contact', label: 'Contact' },
+    { path: '/resume', label: 'Resume' },
   ];
 
   return (

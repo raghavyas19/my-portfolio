@@ -13,8 +13,8 @@ export const projects = [
     title: "Sorting Algo. Visualizer",
     description: "Developed a Sorting Visualizer with HTML, CSS, JS, and Bootstrap, featuring an interactive UI to visualize sorting algorithms in real time.",
     technologies: ["C++"],
-    imageUrl: "/images/sorting",
-    githubUrl: "https://github.com/yourusername/task-manager",
+    imageUrl: "/images/sorting.png",
+    githubUrl: "https://github.com/raghavyas19/Sorting-Visualizer",
     liveUrl:"https://raghavyas19.github.io/Sorting-Visualizer/"
   },
   {
@@ -23,7 +23,7 @@ export const projects = [
     description: "A simple and efficient To-Do List App to manage your tasks effortlessly.",
     technologies: ["HTML", "CSS", "JavaScript"],
     imageUrl: "/images/todo.jpg",
-    githubUrl: "/",
-    liveUrl: "/"
+    githubUrl: "/projects",
+    liveUrl: "/projects"
   }
 ];

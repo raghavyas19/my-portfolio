@@ -8,6 +8,7 @@ import Projects from '../src/pages/Projects';
 import Experience from '../src/pages/Experience';
 import Education from '../src/pages/Education';
 import Contact from '../src/pages/Contact';
+import Resume from '../src/pages/Resume';
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
               <Route path="/experience" element={<Experience />} />
               <Route path="/education" element={<Education />} />
               <Route path="/contact" element={<Contact />} />
+              <Route path="/resume" element={<Resume />} />
             </Routes>
           </AnimatePresence>
         </main>
