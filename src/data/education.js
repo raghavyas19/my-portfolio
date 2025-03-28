@@ -2,9 +2,9 @@ export const education = [
   {
     id: 1,
     degree: "Bachelor of Computer Science & Engineering",
-    school: "Stanford University",
-    duration: "2018 - 2020",
-    gpa: "3.9/4.0"
+    school: "KIIT University",
+    duration: "2022 - 2026",
+    gpa: "7.81/10.0"
   },
   {
     id: 2,
