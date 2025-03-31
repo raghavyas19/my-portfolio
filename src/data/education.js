@@ -21,6 +21,6 @@ export const certifications = [
     name: "Web Development",
     issuer: "Teachnook & Wisenaire IIT Bhubaneshwar",
     date: "01-04-2023",
-    credentialId: "AWS-SAP-123456"
+    credentialId: "TNINTC22-3786"
   }
 ];

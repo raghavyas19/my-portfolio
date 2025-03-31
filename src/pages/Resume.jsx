@@ -19,8 +19,8 @@ export default function Resume() {
           Download My Resume
         </motion.h2>
         <motion.a
-          href="/resume.pdf"
-          download="My_Resume.pdf"
+          href="resume.pdf"
+          download="Raghav_Resume.pdf"
           initial={{ y: 20, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
           transition={{ delay: 0.4 }}
