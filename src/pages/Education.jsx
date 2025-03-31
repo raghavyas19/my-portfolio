@@ -76,7 +76,7 @@ export default function Education() {
                   initial={{ x: 20, opacity: 0 }}
                   animate={{ x: 0, opacity: 1 }}
                   transition={{ delay: 0.2 }}
-                  className="bg-white p-4 rounded border shadow border-dark education-card d-flex align-items-center"
+                  className="bg-white p-4 rounded shadow education-card d-flex align-items-center"
                 >
                   <div className="w-100">
                     <h3 className="fs-5 fw-bold mb-2">{cert.name}</h3>

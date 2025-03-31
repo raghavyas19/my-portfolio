@@ -1,4 +1,4 @@
-import { HashRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { AnimatePresence } from 'framer-motion';
 import Navbar from '../src/components/Navbar';
 import Footer from '../src/components/Footer';
