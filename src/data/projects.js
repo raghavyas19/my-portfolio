@@ -1,6 +1,6 @@
-import lmsImg from '../../public/images/lms.png'
-import sortingImg from '../../public/images/sorting.png'
-import todoImg from '../../public/images/todo.jpg'
+import lmsImg from '../assets/images/lms.png'
+import sortingImg from '../assets/images/sorting.png'
+import todoImg from '../assets/images/todo.jpg'
 
 export const projects = [
   {

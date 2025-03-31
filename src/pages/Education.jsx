@@ -41,7 +41,7 @@ export default function Education() {
                   initial={{ x: -20, opacity: 0 }}
                   animate={{ x: 0, opacity: 1 }}
                   transition={{ delay: 0.2 }}
-                  className="bg-white p-4 shadow rounded border border-dark education-card d-flex align-items-center"
+                  className="bg-white p-4 shadow rounded  education-card d-flex align-items-center"
                 >
                   <div className="d-flex flex-column flex-md-row align-items-md-center justify-content-md-between w-100">
                     <div>
