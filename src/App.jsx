@@ -12,7 +12,7 @@ import Resume from '../src/pages/Resume';
 
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router >
       <div className="d-flex flex-column vh-100 bg-dark">
         <Navbar />
         <main className="flex-grow-1 pt-5" style={{ paddingTop: "70px" }}>
