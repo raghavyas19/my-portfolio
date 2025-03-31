@@ -1,10 +1,14 @@
+import lmsImg from '../../public/images/lms.png'
+import sortingImg from '../../public/images/sorting.png'
+import todoImg from '../../public/images/todo.jpg'
+
 export const projects = [
   {
     id: 1,
     title: "Loan Management App",
     description: "A fintech Loan Management System enabling seamless loan processing and secure banking API integration. Currently in development.",
     technologies: ["React", "Node.js", "MongoDB"],
-    imageUrl: "images/lms.png",
+    imageUrl: lmsImg,
     githubUrl: "https://github.com/raghavyas19/CASH-N-TECH",
     liveUrl: "https://cash-n-tech.vercel.app/homescreen"
   },
@@ -13,7 +17,7 @@ export const projects = [
     title: "Sorting Algo. Visualizer",
     description: "Developed a Sorting Visualizer with HTML, CSS, JS, and Bootstrap, featuring an interactive UI to visualize sorting algorithms in real time.",
     technologies: ["C++"],
-    imageUrl: "images/sorting.png",
+    imageUrl: sortingImg,
     githubUrl: "https://github.com/raghavyas19/Sorting-Visualizer",
     liveUrl:"https://raghavyas19.github.io/Sorting-Visualizer/"
   },
@@ -22,7 +26,7 @@ export const projects = [
     title: "To-Do List App",
     description: "A simple and efficient To-Do List App to manage your tasks effortlessly.",
     technologies: ["HTML", "CSS", "JavaScript"],
-    imageUrl: "images/todo.jpg",
+    imageUrl: todoImg,
     githubUrl: "https://github.com/raghavyas19/to-do-list",
     liveUrl: "https://raghavyas19.github.io/to-do-list/"
   }

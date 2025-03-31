@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import { AnimatePresence } from 'framer-motion';
 import Navbar from '../src/components/Navbar';
 import Footer from '../src/components/Footer';
@@ -12,10 +12,10 @@ import Resume from '../src/pages/Resume';
 
 function App() {
   return (
-    <Router basename='/my-portfolio/'>
+    <Router>
       <div className="d-flex flex-column vh-100 bg-dark">
         <Navbar />
-        <main className="flex-grow-1 pt-5" style={{paddingTop:"70px"}}>
+        <main className="flex-grow-1 pt-5" style={{ paddingTop: "70px" }}>
           <AnimatePresence mode="wait">
             <Routes>
               <Route path="/" element={<Home />} />
