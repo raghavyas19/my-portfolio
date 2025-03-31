@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import Resume from '../assets/resume.pdf'
+import ResumeFile from '../assets/resume.pdf'
 
 export default function Resume() {
   return (
@@ -20,7 +20,7 @@ export default function Resume() {
           Download My Resume
         </motion.h2>
         <motion.a
-          href={Resume}
+          href={ResumeFile}
           download="Raghav_Resume.pdf"
           initial={{ y: 20, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
