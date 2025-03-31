@@ -1,12 +1,23 @@
-# React + Vite
+# My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! This project showcases my skills, projects, and experience in the field of full-stack web development and machine learning.
 
-Currently, two official plugins are available:
+## [Live Here🚀](ghavyas19.github.io/my-portfolio/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## About Me
 
-## Expanding the ESLint configuration
+I am a passionate full-stack web developer having experience in building dynamic and responsive web applications. I have expertise in both front-end and back-end technologies and enjoy learning new frameworks and solving complex problems. I also have experience in Machine Learning (ML) and AI, and I am excited to create applications that push the boundaries of what's possible.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+This portfolio is built using the following technologies:
+- **React**: A JavaScript library for building user interfaces
+- **Bootstrap**: Front-end framework for developing responsive websites
+- **Vite**: Build tool that provides fast development and optimized production builds
+- **JavaScript**: Programming language used for both front-end and back-end
+- **HTML5 & CSS3**: For creating and styling the web pages
+
+## Features
+
+- **Responsive Design**: The portfolio is fully responsive and adapts to different screen sizes and devices.
+- **Project Showcase**: A section dedicated to showcasing my web development and machine learning projects.
