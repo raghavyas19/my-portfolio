@@ -16,7 +16,7 @@ export const projects = [
     id: 2,
     title: "Sorting Algo. Visualizer",
     description: "Developed a Sorting Visualizer with HTML, CSS, JS, and Bootstrap, featuring an interactive UI to visualize sorting algorithms in real time.",
-    technologies: ["C++"],
+    technologies: ["HTML", "JavaScript", "Bootstrap"],
     imageUrl: sortingImg,
     githubUrl: "https://github.com/raghavyas19/Sorting-Visualizer",
     liveUrl:"https://raghavyas19.github.io/Sorting-Visualizer/"
