@@ -1,6 +1,7 @@
 import lmsImg from '../assets/images/lms.png'
 import sortingImg from '../assets/images/sorting.png'
 import todoImg from '../assets/images/todo.jpg'
+import weatherImg from '../assets/images/weather.png'
 
 export const projects = [
   {
@@ -29,5 +30,14 @@ export const projects = [
     imageUrl: todoImg,
     githubUrl: "https://github.com/raghavyas19/to-do-list",
     liveUrl: "https://raghavyas19.github.io/to-do-list/"
+  },
+  {
+    id: 4,
+    title: "Weather App",
+    description: "Fast and efficient weather app of any city with 5-day forecasting.",
+    technologies: ["React", "Vite", "OpenWeather API", "Tailwind CSS"],
+    imageUrl: weatherImg,
+    githubUrl: "https://github.com/raghavyas19/weather-app",
+    liveUrl: "https://weather-app-raghavyas19.vercel.app/"
   }
 ];
