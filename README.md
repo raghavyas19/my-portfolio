@@ -1,7 +1,5 @@
 # My Portfolio
 
-[![Live Here](https://img.shields.io/badge/Live%20Here-Online-green?style=for-the-badge)](https://raghavyas19.vercel.app)
-
 ## 👋 About
 
 Welcome to my personal portfolio! I'm **Raghav**, a software engineer passionate about building impactful web applications and open to new opportunities. This portfolio showcases my projects, professional experience, and the tools I use.
