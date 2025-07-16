@@ -1,73 +1,68 @@
-# Welcome to your Lovable project
+# My Portfolio
 
-## Project info
+[![Live Here](https://img.shields.io/badge/Live%20Here-Online-green?style=for-the-badge)](https://raghavyas19.vercel.app)
 
-**URL**: https://lovable.dev/projects/491fd9c1-6d0a-4a59-986e-5571395e6b83
+## 👋 About
 
-## How can I edit this code?
+Welcome to my personal portfolio! I'm **Raghav**, a software engineer passionate about building impactful web applications and open to new opportunities. This portfolio showcases my projects, professional experience, and the tools I use.
 
-There are several ways of editing your application.
+## 🚀 Live Demo
 
-**Use Lovable**
+Check out the live portfolio: [raghavyas19.vercel.app](https://raghavyas19.vercel.app)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/491fd9c1-6d0a-4a59-986e-5571395e6b83) and start prompting.
+## ✨ Features
 
-Changes made via Lovable will be committed automatically to this repo.
+- 🧭 Interactive navigation between Projects, Experience, and Tools
+- 🌗 Modern, responsive UI with dark mode support
+- 🌐 Showcases real-world projects with live links
+- 💼 Details professional experience and tech stack
+- 🤝 Contact and social links for easy networking
 
-**Use your preferred IDE**
+## 🛠️ Projects
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Some highlighted projects:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- **Version Solve**: AI powered place for coders to solve advanced algorithm problems.  
+  _Tech:_ React.js, Node.js, TypeScript, Tailwind CSS, MongoDB, AWS, Docker  
+  [🔗 Live](https://versionsolve.xyz)
 
-Follow these steps:
+- **CashnTech LMS**: A complex LMS system handling banking operations.  
+  _Tech:_ React.js, Node.js, Javascript, Bootstrap  
+  [🔗 Live](https://cash-n-tech.vercel.app/homescreen)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- **E-commerce Platform**: Full-featured e-commerce platform with product management, cart, and payment processing.  
+  _Tech:_ React.js, Node.js, Tailwind CSS, Razorpay  
+  [🔗 Live](https://rs-healthcare.vercel.app)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+- **All in one AI tool**: Generates podcasts, images, PDFs from prompts using OpenAI API. Includes PDF chat feature.  
+  _Tech:_ React, OpenAI, Flask, Tailwind
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 💼 Experience
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+- **Software Developer Intern at Intecons Software Lab** (May 2025 - Jun 2025)  
+  Worked with Docker, AWS, Flutter, React Native, and OpenAI. Built Wellnoid (health/wellness app) and contributed to VersionSolve.
 
-**Edit a file directly in GitHub**
+- **Freelance Web Developer** (Jun 2024 - Apr 2025)  
+  Designed, developed, and deployed custom websites for clients. Managed projects end-to-end, focusing on responsive, SEO-friendly solutions.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- **Full Stack Developer Intern at Apex Computer Services** (Jan 2024 - Jun 2024)  
+  Built and deployed a live e-commerce website, integrating payment gateways and user authentication. Worked on both frontend and backend.
 
-**Use GitHub Codespaces**
+## 🧰 Tools & Technologies
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+**Frontend:**
+- ⚛️ React, 🟦 TypeScript, 🌊 TailwindCSS, 🅱️ Bootstrap, 📱 React Native, 💙 Flutter
 
-## What technologies are used for this project?
+**Backend & Infrastructure:**
+- 🟢 Node.js, 🚂 Express.js, 🍶 Flask, 🍃 MongoDB, 🐬 MySQL, 🟥 Redis, 🐳 Docker, 🚦 Nginx, 🔥 Firebase, ▲ Vercel, 🟦 Render
 
-This project is built with:
+## 📬 Contact
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- [🐙 GitHub](https://github.com/raghavyas19)
+- [𝕏 X (Twitter)](https://x.com/raghavyas19)
+- [💼 LinkedIn](https://linkedin.com/in/raghavyas19)
+- [✉️ Email](mailto:raghavyas19@gmail.com)
 
-## How can I deploy this project?
+## 📝 License
 
-Simply open [Lovable](https://lovable.dev/projects/491fd9c1-6d0a-4a59-986e-5571395e6b83) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+This project is open source and available under the [MIT License](LICENSE).
